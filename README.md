@@ -23,6 +23,6 @@
 
 ---
 ## ✅ Summary
-Builds on fundamentals with a practical hacker methodology—executing each phase of a real-world engagement.
+Builds on fundamentals with a practical hacker methodology, executing each phase of a real-world engagement.
 
 ---
